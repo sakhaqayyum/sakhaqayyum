@@ -14,7 +14,7 @@
 - 🧪 Automation AI QA Engineer: testing frameworks and LLM-driven prompt workflow validation
 - 👩‍🏫 Former Computer Science Lecturer and Research Assistant
 - 📚 Contributed to peer-reviewed Springer publications
-- 🎯 **Actively seeking PhD and scholarship opportunities** in Software Engineering / Computer Science (Generative AI, LLM testing, reliable AI systems)
+
 
 ## 🔭 Research Interests:
 
